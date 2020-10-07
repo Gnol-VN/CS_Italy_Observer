@@ -1,0 +1,103 @@
+﻿# If you need to change this file, please do it in OmexTools repo in src/Common/ProjectProperties/ReferenceRootFiles
+.vs/
+.vscode/
+_ReSharper*
+[Bb]in
+obj
+objd
+/out/
+/target/
+/tmp/
+App_Data
+*.binlog
+*.user
+*.userprefs
+*.userosscache
+*.sln.cache
+*.suo
+*.orig
+TestResults
+[Tt]humbs.db
+buildd.*
+build.*
+buildout.*
+*.log
+*.bak
+OACRTemp/
+build_logs/
+lock
+/public/inc/bldver.cpp
+/public/inc/bldver.cs
+/public/inc/bldver.h
+/public/inc/bldver.vb
+/public/inc/sources.ver
+/data
+/Symbols
+/drop
+/.corext/.pkg/
+/.corext/gen/
+__cacheOutput/
+
+#pacman
+nuget
+packages
+globalPackages
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/packages/repositories.config
+# NuGet v3's project.json files produces more ignoreable files
+*.nuget.props
+*.nuget.targets
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+pkg/
+
+# quickbuild.exe
+/version/
+/VersionGeneratingLogs/
+/VersionGeneration/qver.proj
+QLogs
+QLocal
+QTestLogs
+
+# Microsoft Fakes
+FakesAssemblies/
+
+# bad tlb/chm generators in nmake tree
+*.tlb
+*.chm
+
+# silverlight
+ClientBin/
+
+# azure
+*.build.csdef
+csx/
+
+# NCrunch
+
+*.ncrunchsolution.user
+_NCrunch_*
+.*crunch*.local.xml
+
+# Node packages
+node_modules/
+**/build/
+**/dev-build/
+**/dist

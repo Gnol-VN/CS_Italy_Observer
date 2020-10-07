@@ -1,0 +1,16 @@
+D:\CS_Italy_Observer\CS_Italy_Observer\bin\Debug\netcoreapp3.1\CS_Italy_Observer.exe
+D:\CS_Italy_Observer\CS_Italy_Observer\bin\Debug\netcoreapp3.1\CS_Italy_Observer.deps.json
+D:\CS_Italy_Observer\CS_Italy_Observer\bin\Debug\netcoreapp3.1\CS_Italy_Observer.runtimeconfig.json
+D:\CS_Italy_Observer\CS_Italy_Observer\bin\Debug\netcoreapp3.1\CS_Italy_Observer.runtimeconfig.dev.json
+D:\CS_Italy_Observer\CS_Italy_Observer\bin\Debug\netcoreapp3.1\CS_Italy_Observer.dll
+D:\CS_Italy_Observer\CS_Italy_Observer\bin\Debug\netcoreapp3.1\CS_Italy_Observer.pdb
+D:\CS_Italy_Observer\CS_Italy_Observer\obj\Debug\netcoreapp3.1\CS_Italy_Observer.csprojAssemblyReference.cache
+D:\CS_Italy_Observer\CS_Italy_Observer\obj\Debug\netcoreapp3.1\CS_Italy_Observer.AssemblyInfoInputs.cache
+D:\CS_Italy_Observer\CS_Italy_Observer\obj\Debug\netcoreapp3.1\CS_Italy_Observer.AssemblyInfo.cs
+D:\CS_Italy_Observer\CS_Italy_Observer\obj\Debug\netcoreapp3.1\CS_Italy_Observer.dll
+D:\CS_Italy_Observer\CS_Italy_Observer\obj\Debug\netcoreapp3.1\CS_Italy_Observer.pdb
+D:\CS_Italy_Observer\CS_Italy_Observer\obj\Debug\netcoreapp3.1\CS_Italy_Observer.genruntimeconfig.cache
+D:\CS_Italy_Observer\CS_Italy_Observer\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\CS_Italy_Observer\CS_Italy_Observer\obj\Debug\netcoreapp3.1\CS_Italy_Observer.csproj.CopyComplete
+D:\CS_Italy_Observer\CS_Italy_Observer\bin\Debug\netcoreapp3.1\HtmlAgilityPack.CssSelectors.NetCore.dll
+D:\CS_Italy_Observer\CS_Italy_Observer\obj\Debug\netcoreapp3.1\CS_Italy_Observer.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "W0sRV+rFGlstEn+3RtJc+K4e8a0wITGxiAXinhsBOijHJhL95FZq0hOxobOquOxj2QKRybKQyInpKd8+IHOilQ==",
+  "success": true,
+  "projectFilePath": "D:\\CS_Italy_Observer\\CS_Italy_Observer\\CS_Italy_Observer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dothanhl\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512",
+    "C:\\Users\\dothanhl\\.nuget\\packages\\htmlagilitypack.cssselectors.netcore\\1.2.1\\htmlagilitypack.cssselectors.netcore.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
