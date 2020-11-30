@@ -1,20 +1,23 @@
 ﻿using Expo.Server.Client;
 using Expo.Server.Models;
 using HtmlAgilityPack;
-using HtmlAgilityPack.CssSelectors.NetCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
+using System.Net.Http;
+using System.Net.Http.Headers;
+using Newtonsoft.Json.Linq;
 
 
 namespace CS_Italy_Observer
 {
-    class Program
+    class CS_italy_Watcher
     {
         static void Main(string[] args)
         {
             string mapName = "cs_italy";
-            string expoPushToken = "ExponentPushToken[01UfI5F8HsJuKUP5_gVG2v]";
+            string expoPushToken = "ExponentPushToken[AICngyBJmFOCmWFqQlemgu]";
 
             HtmlWeb htmlWeb = new HtmlWeb();
             HtmlDocument document = htmlWeb.Load("https://cs-online.club/en/servers");
@@ -28,9 +31,7 @@ namespace CS_Italy_Observer
                     Console.WriteLine(Int32.Parse(item.InnerText));
                 }
             }
-
-		
-
+            
 		}
 
         private static void SendPush(string expoPushToken, string innerText)

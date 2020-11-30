@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_Italy_Observer", "CS_Italy_Observer\CS_Italy_Observer.csproj", "{C974E522-69DC-416E-B90B-2C34045228A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS_Italy_Observer", "CS_Italy_Observer\CS_Italy_Observer.csproj", "{C974E522-69DC-416E-B90B-2C34045228A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{72AD6B21-E45F-4F30-A738-A0A730C90DF5}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		readme.md = readme.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
