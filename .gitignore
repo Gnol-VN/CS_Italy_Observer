@@ -1,7 +1,7 @@
 ﻿# If you need to change this file, please do it in OmexTools repo in src/Common/ProjectProperties/ReferenceRootFiles
 .vs/
 .vshistory/
-.vscode/
+
 _ReSharper*
 [Bb]in
 obj
